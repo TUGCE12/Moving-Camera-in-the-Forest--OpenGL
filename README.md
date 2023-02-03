@@ -1,4 +1,4 @@
-# Moving-Camera-in-the-Fores-OpenGLt
+# Moving-Camera-in-the-Forest-OpenGLt
 This project was made as a project assignment within the scope of Galatsaray University Computer Graphics course. The topic and the project to be done were chosen by the student (ie me).
 
 
